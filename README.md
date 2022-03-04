@@ -6,8 +6,8 @@
 This project analyses how the 3 point shot changes game from season to season. We will look at the following in this project. You can use the table of contents to access the necessary sections for your information. However, for caveat purpose, this analysis mainly looks at the 3 point shots and its correlation to other statistics. Further analysis can be done to see how the 3 point shot affects/is affected by conditioning, imapct on entertainment value etc.
 
 <!-- TABLE OF CONTENTS -->
-<details>
-  <summary><b>Table of Contents</b></summary>
+<details open>
+  <summary><b><font size=12>Table of Contents</font size></b></summary>
   <ol>
     <li><a href="#project-context">Project Context</a></li>
     <li><a href="#datasets">Datasets</a></li>
